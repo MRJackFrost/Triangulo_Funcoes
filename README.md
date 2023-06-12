@@ -40,7 +40,7 @@ Este projeto foi visado para calcular a area de dois triangulos(X e Y) e definir
 ✔️ Define e mostra qual o maior triangulo
 
 ## Distribuição
-[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Classes/blob/master/Program.cs)
+[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Funcoes/blob/master/Program.cs)
 
 ## Pré-requisitos ⚠️    
 Um compilador de linguagem C#;
