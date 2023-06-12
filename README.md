@@ -1,4 +1,4 @@
-# Triangulo com Classe
+# Triangulo com Funções
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído
 
@@ -51,7 +51,7 @@ Aparelho utilizado para testes.
 o arquivo deve ser inserido em um compilador(como o visual studio) ou faça o download do projeto e abra no mesmo compilador
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Os testes foram realizados no termianal do visual studio, tudo funcional.
 
 ## Banco de Dados 🗂️
 Sem acesso a banco de dados
